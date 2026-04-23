@@ -181,7 +181,13 @@ const getMe = async (req, res, next) => {
 
 const logout = async (req, res, next) => {
   try {
-    res.clearCookie("token");
+    const isProduction = process.env.NODE_ENV === "production";
+
+    res.clearCookie("token", {
+      httpOnly: true,
+      secure: isProduction,
+      sameSite: isProduction ? "None" : "Lax",
+    });
 
     res.status(200).json({
       status: "success",
