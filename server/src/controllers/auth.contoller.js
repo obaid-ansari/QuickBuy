@@ -37,8 +37,12 @@ const userRegister = async (req, res, next) => {
     await user.save();
 
     const token = await user.generateToken();
-    res.cookie("token", token);
-
+    res.cookie("token", token, {
+      httpOnly: true,
+      secure: true,
+      sameSite: "None",
+      maxAge: 7 * 24 * 60 * 60 * 1000, // 7 days
+    });
     return res.status(201).json({
       status: "success",
       message: "Account created successfully! Welcome to QuickBuy.",
@@ -72,7 +76,12 @@ const userLogin = async (req, res, next) => {
     }
 
     const token = await isUserExisted.generateToken();
-    res.cookie("token", token);
+    res.cookie("token", token, {
+      httpOnly: true,
+      secure: true,
+      sameSite: "None",
+      maxAge: 7 * 24 * 60 * 60 * 1000, // 7 days
+    });
     return res.status(200).json({
       status: "success",
       message: "Logged in successfully! Welcome back.",
