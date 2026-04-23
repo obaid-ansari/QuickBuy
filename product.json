@@ -1,0 +1,371 @@
+[
+  {
+    "name": "Samsung Galaxy S24 Ultra",
+    "description": "6.8-inch QHD+ Dynamic AMOLED display, Snapdragon 8 Gen 3, 200MP camera, 5000mAh battery, S Pen included. The ultimate Android flagship experience.",
+    "price": 129999,
+    "category": "Electronics",
+    "images": ["https://m.media-amazon.com/images/I/71WcjsOVOmL.jpg"],
+    "stock": 45,
+    "rating": 4.7
+  },
+  {
+    "name": "Apple MacBook Air M2",
+    "description": "13.6-inch Liquid Retina display, Apple M2 chip, 8GB RAM, 256GB SSD, 18-hour battery life. Ultra-thin and lightweight design for professionals.",
+    "price": 114900,
+    "category": "Electronics",
+    "images": ["https://m.media-amazon.com/images/I/61upJ6FlFLL.jpg"],
+    "stock": 30,
+    "rating": 4.8
+  },
+  {
+    "name": "Sony WH-1000XM5 Headphones",
+    "description": "Industry-leading noise cancellation, 30-hour battery life, multipoint connection, crystal clear hands-free calling. Premium over-ear wireless headphones.",
+    "price": 29990,
+    "category": "Electronics",
+    "images": ["https://m.media-amazon.com/images/I/61vJtKbAssL.jpg"],
+    "stock": 80,
+    "rating": 4.6
+  },
+  {
+    "name": "LG 55-inch 4K OLED TV",
+    "description": "55-inch OLED evo panel, 4K resolution, 120Hz refresh rate, Dolby Vision & Atmos, WebOS smart TV, Google Assistant & Alexa built-in.",
+    "price": 139999,
+    "category": "Electronics",
+    "images": ["https://m.media-amazon.com/images/I/91w-VrHsASL.jpg"],
+    "stock": 20,
+    "rating": 4.7
+  },
+  {
+    "name": "Canon EOS R50 Mirrorless Camera",
+    "description": "24.2MP APS-C CMOS sensor, DIGIC X processor, 4K video recording, dual pixel autofocus, Wi-Fi & Bluetooth. Perfect for content creators and photography enthusiasts.",
+    "price": 74995,
+    "category": "Electronics",
+    "images": ["https://m.media-amazon.com/images/I/71QydeWkpQL.jpg"],
+    "stock": 25,
+    "rating": 4.5
+  },
+  {
+    "name": "OnePlus Nord CE 3 Lite",
+    "description": "6.72-inch FHD+ 120Hz display, Snapdragon 695, 108MP triple camera, 5000mAh battery with 67W SUPERVOOC charging. Best mid-range smartphone under 20K.",
+    "price": 19999,
+    "category": "Electronics",
+    "images": ["https://m.media-amazon.com/images/I/616uMtIWiiL.jpg"],
+    "stock": 70,
+    "rating": 4.3
+  },
+  {
+    "name": "boAt Airdopes 141 TWS Earbuds",
+    "description": "42H total playback, BEAST Mode for low latency gaming, ENx tech for clear calls, IPX4 water resistance, instant voice assistant access.",
+    "price": 1299,
+    "category": "Electronics",
+    "images": ["https://m.media-amazon.com/images/I/71RFdy6y6LL.jpg"],
+    "stock": 200,
+    "rating": 4.2
+  },
+  {
+    "name": "HP LaserJet MFP M140w Printer",
+    "description": "Wireless monochrome laser printer with print, scan and copy functions. Wi-Fi & USB connectivity, 20 ppm print speed, 150-sheet input tray.",
+    "price": 14499,
+    "category": "Electronics",
+    "images": ["https://m.media-amazon.com/images/I/51Gz8nwNarL.jpg"],
+    "stock": 35,
+    "rating": 4.3
+  },
+  {
+    "name": "Logitech MX Master 3S Mouse",
+    "description": "8000 DPI sensor, MagSpeed electromagnetic scrolling, ergonomic design, Bluetooth & USB receiver, works on glass surfaces. Rechargeable via USB-C.",
+    "price": 9995,
+    "category": "Electronics",
+    "images": ["https://m.media-amazon.com/images/I/61oEwT0WpSL.jpg"],
+    "stock": 60,
+    "rating": 4.7
+  },
+  {
+    "name": "Levi's 511 Slim Fit Jeans",
+    "description": "Classic slim fit jeans crafted from premium stretch denim. Features a mid-rise waist, tapered leg, and 5-pocket styling. Available in dark indigo wash.",
+    "price": 3999,
+    "category": "Fashion",
+    "images": ["https://m.media-amazon.com/images/I/518KQsrhTKL.jpg"],
+    "stock": 150,
+    "rating": 4.4
+  },
+  {
+    "name": "Nike Air Max 270 Sneakers",
+    "description": "Lightweight mesh upper, Max Air unit in the heel for all-day comfort, foam midsole for cushioning. Iconic street-style sneakers for everyday wear.",
+    "price": 12995,
+    "category": "Fashion",
+    "images": ["https://m.media-amazon.com/images/I/81IesVJQX8L.jpg"],
+    "stock": 100,
+    "rating": 4.5
+  },
+  {
+    "name": "Allen Solly Formal Shirt",
+    "description": "Premium cotton blend formal shirt with a slim fit cut, spread collar, and single cuff. Wrinkle-resistant fabric suitable for office and formal occasions.",
+    "price": 1799,
+    "category": "Fashion",
+    "images": ["https://m.media-amazon.com/images/I/71Otn4nA5WL.jpg"],
+    "stock": 200,
+    "rating": 4.2
+  },
+  {
+    "name": "Biba Women's Anarkali Kurta",
+    "description": "Beautiful flared Anarkali style kurta made from soft cotton fabric with intricate embroidery on the yoke. Perfect for festivals and casual occasions.",
+    "price": 2499,
+    "category": "Fashion",
+    "images": ["https://m.media-amazon.com/images/I/61oYM4f8LAL.jpg"],
+    "stock": 120,
+    "rating": 4.3
+  },
+  {
+    "name": "Fossil Analog Wrist Watch",
+    "description": "Stainless steel case with mineral glass lens, genuine leather strap, water resistant up to 30m. Sleek minimalist design for everyday casual wear.",
+    "price": 2995,
+    "category": "Fashion",
+    "images": ["https://m.media-amazon.com/images/I/71taSx89wUL.jpg"],
+    "stock": 90,
+    "rating": 4.1
+  },
+  {
+    "name": "Peter England Men's Chinos",
+    "description": "Slim fit cotton stretch chinos with mid-rise waist and flat front design. Versatile smart-casual trousers available in beige, olive and navy.",
+    "price": 2299,
+    "category": "Fashion",
+    "images": ["https://m.media-amazon.com/images/I/71De-IPZoeL.jpg"],
+    "stock": 175,
+    "rating": 4.2
+  },
+  {
+    "name": "Adidas Ultraboost 22 Running Shoes",
+    "description": "Boost midsole for energy return, Primeknit+ upper for adaptive fit, Continental rubber outsole for grip. Ideal for long distance running and daily training.",
+    "price": 16999,
+    "category": "Fashion",
+    "images": ["https://m.media-amazon.com/images/I/61aXSkFNTUL.jpg"],
+    "stock": 85,
+    "rating": 4.6
+  },
+  {
+    "name": "Wildcraft Unisex Backpack 30L",
+    "description": "Water-resistant 30L daypack with padded laptop compartment, multiple organizer pockets, ergonomic shoulder straps and sternum strap. Ideal for trekking and college.",
+    "price": 2499,
+    "category": "Fashion",
+    "images": ["https://m.media-amazon.com/images/I/61f6iHxFmtL.jpg"],
+    "stock": 110,
+    "rating": 4.4
+  },
+  {
+    "name": "Philips Air Fryer HD9200",
+    "description": "4.1-litre capacity, Rapid Air technology, up to 90% less fat, 7 preset cooking programs, non-stick dishwasher-safe basket. Healthy cooking made easy.",
+    "price": 8995,
+    "category": "Home & Kitchen",
+    "images": ["https://m.media-amazon.com/images/I/61zyQVznTcL.jpg"],
+    "stock": 60,
+    "rating": 4.5
+  },
+  {
+    "name": "Prestige Induction Cooktop",
+    "description": "2000W induction cooktop with 7 preset menus, touch panel controls, auto voltage regulator, and child safety lock. Scratch-resistant glass top surface.",
+    "price": 3299,
+    "category": "Home & Kitchen",
+    "images": ["https://m.media-amazon.com/images/I/61u0m8VP01L.jpg"],
+    "stock": 75,
+    "rating": 4.3
+  },
+  {
+    "name": "Milton Thermosteel Flask 1L",
+    "description": "Double-walled vacuum insulated stainless steel flask. Keeps beverages hot for 24 hours and cold for 48 hours. Leak-proof lid with easy pour spout.",
+    "price": 899,
+    "category": "Home & Kitchen",
+    "images": ["https://m.media-amazon.com/images/I/813dSbp5E4L.jpg"],
+    "stock": 300,
+    "rating": 4.4
+  },
+  {
+    "name": "Wonderchef Granite Cookware Set",
+    "description": "5-piece granite coated non-stick cookware set including fry pan, kadai, saucepan, and lids. Induction compatible, PFOA-free coating, heat-resistant handles.",
+    "price": 4999,
+    "category": "Home & Kitchen",
+    "images": ["https://m.media-amazon.com/images/I/61ngNrMPdpL.jpg"],
+    "stock": 55,
+    "rating": 4.3
+  },
+  {
+    "name": "Pigeon by Stovekraft Pressure Cooker 5L",
+    "description": "5-litre aluminium pressure cooker with outer lid, safety valve and gasket. ISI certified, induction and gas compatible, ideal for everyday Indian cooking.",
+    "price": 1199,
+    "category": "Home & Kitchen",
+    "images": ["https://m.media-amazon.com/images/I/61UUxycGsjL.jpg"],
+    "stock": 130,
+    "rating": 4.4
+  },
+  {
+    "name": "Bajaj Rex 500W Mixer Grinder",
+    "description": "500W motor with 3 stainless steel jars — liquidizing, wet grinding and chutney. Overload protector, anti-skid feet, 2-year warranty. Ideal for daily kitchen tasks.",
+    "price": 2299,
+    "category": "Home & Kitchen",
+    "images": ["https://m.media-amazon.com/images/I/71K1px-mEXL.jpg"],
+    "stock": 95,
+    "rating": 4.1
+  },
+  {
+    "name": "Amazon Basics Microwave Oven 23L",
+    "description": "23-litre solo microwave with 800W power, 8 preset cooking modes, defrost function, child lock and express cooking. Stylish black finish with LED display.",
+    "price": 6499,
+    "category": "Home & Kitchen",
+    "images": ["https://m.media-amazon.com/images/I/81gP22+jCVL.jpg"],
+    "stock": 50,
+    "rating": 4.3
+  },
+  {
+    "name": "Lakme Absolute Skin Natural Mousse",
+    "description": "Lightweight mousse foundation with SPF 8, provides medium to full coverage, matte finish, lasts up to 16 hours. Available in 8 Indian skin tone shades.",
+    "price": 549,
+    "category": "Beauty & Personal Care",
+    "images": ["https://m.media-amazon.com/images/I/81uNUFJN8lL.jpg"],
+    "stock": 250,
+    "rating": 4.1
+  },
+  {
+    "name": "Himalaya Herbals Face Wash",
+    "description": "Pack of 3 neem face washes — purifying neem, moisturizing aloe vera, and brightening turmeric. Gentle formula suitable for all skin types. 150ml each.",
+    "price": 399,
+    "category": "Beauty & Personal Care",
+    "images": ["https://m.media-amazon.com/images/I/71OvDILAE+L.jpg"],
+    "stock": 400,
+    "rating": 4.4
+  },
+  {
+    "name": "Philips BT3231 Beard Trimmer",
+    "description": "11 length settings (0.5mm to 10mm), DuraPower technology for 200 min runtime, corded and cordless use, self-sharpening rounded tip blades. Washable attachment.",
+    "price": 1995,
+    "category": "Beauty & Personal Care",
+    "images": ["https://m.media-amazon.com/images/I/71+8vIf5JmL.jpg"],
+    "stock": 130,
+    "rating": 4.5
+  },
+  {
+    "name": "Biotique Bio Morning Nector Moisturizer",
+    "description": "Lightweight SPF 30 sunscreen moisturizer with honey, wheat germ and berberry extracts. Keeps skin soft, supple and hydrated all day. Suitable for all skin types.",
+    "price": 299,
+    "category": "Beauty & Personal Care",
+    "images": ["https://m.media-amazon.com/images/I/71wUhQVqYmL.jpg"],
+    "stock": 320,
+    "rating": 4.2
+  },
+  {
+    "name": "Maybelline Fit Me Concealer",
+    "description": "Blendable liquid concealer that covers dark circles, blemishes and spots. Natural matte finish, dermatologist tested, available in 10 shades for Indian skin tones.",
+    "price": 349,
+    "category": "Beauty & Personal Care",
+    "images": ["https://m.media-amazon.com/images/I/61izegtl46L.jpg"],
+    "stock": 280,
+    "rating": 4.3
+  },
+  {
+    "name": "WOW Skin Science Hair Oil",
+    "description": "Onion black seed hair oil blend with red onion seed extract, black seed oil and coconut oil. Reduces hair fall, strengthens roots, adds shine. 200ml bottle.",
+    "price": 499,
+    "category": "Beauty & Personal Care",
+    "images": ["https://m.media-amazon.com/images/I/61NuSZzdaaL.jpg"],
+    "stock": 350,
+    "rating": 4.4
+  },
+  {
+    "name": "Nivea Men Face Wash Dark Spot",
+    "description": "10x whitening face wash with vitamin C and multi-vitamin complex. Removes dark spots, controls oil, deep cleanses pores. Suitable for daily use. 100ml.",
+    "price": 199,
+    "category": "Beauty & Personal Care",
+    "images": ["https://m.media-amazon.com/images/I/516sva1XQbL.jpg"],
+    "stock": 500,
+    "rating": 4.1
+  },
+  {
+    "name": "Colorbar Cosmetics Lip Color",
+    "description": "Rich creamy matte lipstick with long-lasting formula. Enriched with vitamin E and jojoba oil for moisturized lips. Available in 30 vibrant shades.",
+    "price": 449,
+    "category": "Beauty & Personal Care",
+    "images": ["https://m.media-amazon.com/images/I/51TKYIPa2VL.jpg"],
+    "stock": 300,
+    "rating": 4.2
+  },
+  {
+    "name": "Braun Silk Epil 3 Epilator",
+    "description": "20 tweezers for efficient hair removal, massaging rollers to stimulate skin, close-grip technology. Corded use, works on all body areas including sensitive skin.",
+    "price": 2799,
+    "category": "Beauty & Personal Care",
+    "images": ["https://m.media-amazon.com/images/I/7128Iy7MtcL.jpg"],
+    "stock": 90,
+    "rating": 4.3
+  },
+  {
+    "name": "Boldfit Yoga Mat with Carry Strap",
+    "description": "6mm thick anti-slip TPE yoga mat, 183cm x 61cm dimensions, eco-friendly material, moisture resistant, includes free carry strap. Available in 6 colors.",
+    "price": 799,
+    "category": "Sports & Fitness",
+    "images": ["https://m.media-amazon.com/images/I/61WrjbRYC3L.jpg"],
+    "stock": 220,
+    "rating": 4.3
+  },
+  {
+    "name": "Cosco Dumbbell Set 10kg",
+    "description": "Pair of 5kg rubber coated hex dumbbells with ergonomic anti-slip grip handle. Rust-proof coating, flat edges to prevent rolling. Ideal for home workouts.",
+    "price": 1599,
+    "category": "Sports & Fitness",
+    "images": ["https://m.media-amazon.com/images/I/71xEofjgz5L.jpg"],
+    "stock": 100,
+    "rating": 4.2
+  },
+  {
+    "name": "Nivia Storm Football Size 5",
+    "description": "FIFA approved hand-stitched football with 32-panel design, butyl bladder for superior air retention, PU outer casing for durability. Suitable for all surfaces.",
+    "price": 999,
+    "category": "Sports & Fitness",
+    "images": ["https://m.media-amazon.com/images/I/61RpRYFb2wL.jpg"],
+    "stock": 160,
+    "rating": 4.1
+  },
+  {
+    "name": "Strauss Adjustable Skipping Rope",
+    "description": "Adjustable length PVC skipping rope with ball bearing handles for smooth rotation. Anti-slip grip, suitable for all fitness levels. Length adjustable up to 9.5 feet.",
+    "price": 349,
+    "category": "Sports & Fitness",
+    "images": ["https://m.media-amazon.com/images/I/71WhY22zw7L.jpg"],
+    "stock": 280,
+    "rating": 4.0
+  },
+  {
+    "name": "Decathlon Kipsta Basketball",
+    "description": "Size 7 rubber basketball with grip channels for better control, suitable for indoor and outdoor courts. Durable butyl bladder for excellent air retention.",
+    "price": 1299,
+    "category": "Sports & Fitness",
+    "images": ["https://m.media-amazon.com/images/I/71EKq2WIYfL.jpg"],
+    "stock": 140,
+    "rating": 4.2
+  },
+  {
+    "name": "Aurion Treadmill AT-1105",
+    "description": "2.5 HP peak DC motor, 12 preset programs, max speed 12 km/h, foldable design, LED display showing speed, distance, time and calories. Max user weight 100kg.",
+    "price": 24999,
+    "category": "Sports & Fitness",
+    "images": ["https://m.media-amazon.com/images/I/615GSn+n1lL.jpg"],
+    "stock": 20,
+    "rating": 4.1
+  },
+  {
+    "name": "Yonex Mavis 350 Badminton Set",
+    "description": "Set includes 2 Yonex Arcsaber rackets and 6 Mavis 350 nylon shuttlecocks. Lightweight graphite frame, full cover included. Ideal for recreational players.",
+    "price": 3499,
+    "category": "Sports & Fitness",
+    "images": ["https://m.media-amazon.com/images/I/41ptGDjTMQL.jpg"],
+    "stock": 75,
+    "rating": 4.4
+  },
+  {
+    "name": "MuscleBlaze Whey Protein 1kg",
+    "description": "25g protein per serving, 5.5g BCAAs, 4g glutamic acid, low sugar, informed choice certified. Available in rich chocolate and cookies & cream flavors.",
+    "price": 2199,
+    "category": "Sports & Fitness",
+    "images": ["https://m.media-amazon.com/images/I/81il8kfvUbL.jpg"],
+    "stock": 190,
+    "rating": 4.5
+  }
+]
