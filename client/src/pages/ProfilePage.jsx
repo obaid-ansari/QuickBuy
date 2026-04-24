@@ -69,7 +69,7 @@ const ProfilePage = () => {
                   </Link>
                   <Link
                     className="list-group-item list-group-item-action border-0 bg-transparent py-3 text-danger"
-                    to="/"
+                    // to="/"
                     onClick={() => {
                       handleLogout();
                     }}
