@@ -1,19 +1,21 @@
-import React from "react";
+import React, { lazy, Suspense } from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import Layout from "./components/Layout";
-import Home from "./pages/Home";
-import About from "./pages/About";
-import Register from "./pages/Register";
-import Login from "./pages/Login";
-import Products from "./pages/Products";
-import DetailedProduct from "./pages/DetailedProduct";
-import Cart from "./pages/Cart";
-import ProfilePage from "./pages/ProfilePage";
-import Order from "./pages/Order";
-import OrderDetail from "./pages/OrderDetail";
-import Checkout from "./pages/Checkout";
-import Error from "./pages/Error";
-import Dashboard from "./pages/Dashboard";
+const Layout = lazy(() => import("./components/Layout"));
+const Home = lazy(() => import("./pages/Home"));
+const About = lazy(() => import("./pages/About"));
+const Register = lazy(() => import("./pages/Register"));
+const Login = lazy(() => import("./pages/Login"));
+const Products = lazy(() => import("./pages/Products"));
+const DetailedProduct = lazy(() => import("./pages/DetailedProduct"));
+const Cart = lazy(() => import("./pages/Cart"));
+const ProfilePage = lazy(() => import("./pages/ProfilePage"));
+const Order = lazy(() => import("./pages/Order"));
+const OrderDetail = lazy(() => import("./pages/OrderDetail"));
+const Checkout = lazy(() => import("./pages/Checkout"));
+const Error = lazy(() => import("./pages/Error"));
+const Dashboard = lazy(() => import("./pages/Dashboard"));
+
+import Loader from "./components/Loader";
 
 const App = () => {
   const router = createBrowserRouter([
@@ -78,9 +80,9 @@ const App = () => {
   ]);
 
   return (
-    <>
+    <Suspense fallback={<Loader />}>
       <RouterProvider router={router} />
-    </>
+    </Suspense>
   );
 };
 

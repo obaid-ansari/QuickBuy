@@ -20,9 +20,9 @@ const Order = () => {
     return <Auth />;
   }
 
-  useEffect(() => {
-    fetchOrderProducts();
-  }, []);
+  // useEffect(() => {
+  //   fetchOrderProducts();
+  // }, []);
 
   if (!orders || orders.length === 0) {
     return (

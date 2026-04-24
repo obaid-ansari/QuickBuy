@@ -124,7 +124,7 @@ const Footer = () => {
               className="d-flex gap-3 justify-content-center justify-content-md-end"
               aria-label="Follow us on social media"
             >
-              <a
+              {/* <a
                 href="https://facebook.com"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -132,43 +132,40 @@ const Footer = () => {
                 aria-label="Facebook"
               >
                 <i className="bi bi-facebook" aria-hidden="true"></i>
-              </a>
-              <a
+              </a> */}
+              {/* <a
                 href="https://instagram.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-white fs-5"
-                aria-label="Instagram"
               >
                 <i className="bi bi-instagram" aria-hidden="true"></i>
-              </a>
+              </a> */}
               <a
-                href="https://twitter.com"
+                href="https://github.com/obaid-ansari"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-white fs-5"
-                aria-label="Twitter / X"
               >
-                <i className="bi bi-twitter-x" aria-hidden="true"></i>
+                <i className="bi bi-github" aria-hidden="true"></i>
               </a>
               <a
-                href="https://linkedin.com"
+                href="linkedin.com/in/obaid-ansari/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-white fs-5"
-                aria-label="LinkedIn"
               >
                 <i className="bi bi-linkedin" aria-hidden="true"></i>
               </a>
-              <a
-                href="https://youtube.com"
+              {/* <a
+                href="https://github.com/obaid-ansari"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-white fs-5"
                 aria-label="YouTube"
               >
                 <i className="bi bi-youtube" aria-hidden="true"></i>
-              </a>
+              </a> */}
             </div>
           </div>
         </div>

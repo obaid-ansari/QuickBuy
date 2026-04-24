@@ -6,10 +6,12 @@ import {
   updateCartQuantity,
   deleteCart,
 } from "../services/cartService";
+import { useAuth } from "../hooks/useAuth";
 
 export const CartContext = createContext();
 
 export const CartProvider = ({ children }) => {
+  const { user } = useAuth();
   const [cartProducts, setCartProducts] = useState([]);
 
   // fetch cart
@@ -24,8 +26,10 @@ export const CartProvider = ({ children }) => {
     }
   };
   useEffect(() => {
-    fetchCartProducts();
-  }, []);
+    if (user) {
+      fetchCartProducts();
+    }
+  }, [user]);
 
   // add to cart
   const addToCartProducts = async (productId, quantity) => {

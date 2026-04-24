@@ -92,8 +92,11 @@ export const OrderProvider = ({ children }) => {
   };
 
   useEffect(() => {
-    fetchAllOrder();
-  }, []);
+    if (user) {
+      fetchAllOrder();
+      fetchOrderProducts();
+    }
+  }, [user]);
 
   // CASH ON DEVLEVERY
   const cashOnDeliveryOrder = async () => {
