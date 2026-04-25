@@ -6,7 +6,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
-**QuickBuy** is a full-stack e-commerce web application that allows users to browse products, add items to a cart, place orders, and manage their accounts. The platform includes secure authentication, product management, and order processing — built to simulate a real-world online shopping system.
+**QuickBuy** is a full-stack e-commerce web application that allows users to browse products, add items to a cart, place orders, and manage their accounts. The platform includes secure authentication, product management, and order processing built to simulate a real-world online shopping system.
 
 ---
 
